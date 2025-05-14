@@ -4,6 +4,12 @@ Welcome to my GitHub! I'm a passionate software engineer with experience buildin
 
 ---
 
+## 🛠️ Recent Projects
+[AstroJS Studio Template](https://github.com/Evanjbraun/cheer_template_astro)
+[Defend the Castle ThreeJS Game](https://github.com/Evanjbraun/defend_the_castle)
+
+---
+
 ## 🛠️ Skills & Technologies
 
 ### 🎨 Frontend
