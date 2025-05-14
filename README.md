@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Evan — Full-Stack Engineer & Cloud Enthusiast ☁️
+# 👋 Hi, I’m Evan, a Full-Stack Engineer and Cloud Enthusiast ☁️
 
 Welcome to my GitHub! I'm a passionate software engineer with experience building scalable, production-grade systems across **frontend**, **backend**, and **cloud infrastructure**.
 
