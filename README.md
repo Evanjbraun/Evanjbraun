@@ -3,7 +3,7 @@
 Experience with building scalable, production-grade systems across **frontend**, **backend**, and **cloud infrastructure**.
 
 
-## 🛠️ Recent Projects
+## 🪚 Recent Projects
 
 
 [AstroJS Studio Template](https://github.com/Evanjbraun/cheer_template_astro)
