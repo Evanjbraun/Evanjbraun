@@ -13,30 +13,35 @@ Welcome to my GitHub! I'm a passionate software engineer with experience buildin
 
 ## 🛠️ Skills & Technologies
 
-### 🎨 Frontend
-- **Frameworks**: React, AstroJS, Bootstrap, NextJS
-- **Styling**: TailwindCSS, HTML, CSS, Liquid (Shopify)
-- **Testing**: Jest
-- **Design Tools**: Adobe Photoshop, Adobe Illustrator
+### Languages
+**Primary**: TypeScript, Python, Java  
+**Secondary**: Bash, PowerShell, PHP, Liquid (Shopify templating)
 
-### 🔙 Backend
-- **Languages**: Java, Python, TypeScript
-- **Frameworks**: Spring Boot, Node.js, Express
-- **Messaging**: Apache Kafka
-- **Testing**: JUnit
+### Frontend
+**Frameworks & Libraries**: React, Next.js, Astro  
+**Styling**: TailwindCSS, Bootstrap, CSS/HTML  
+**Design Tools**: Figma, Adobe Photoshop, Adobe Illustrator
 
-### ☁️ DevOps & Cloud
-- **Cloud Providers**: AWS, Azure
-- **Infrastructure**: Docker, Kubernetes, Terraform
-- **Monitoring & Security**: New Relic, Crowdstrike, Qualys
+### Backend & APIs
+**Frameworks**: Node.js/Express, Spring Boot  
+**APIs**: REST, GraphQL  
+**Messaging**: Apache Kafka  
+**Testing**: JUnit
 
-### 🛠️ Additional Tools
-- Git & GitHub Actions  
-- MarkLogic  
-- Apache Spark & DataBricks  
-- Postman, Swagger, OpenAPI  
-- Gradle, Bash, PowerShell, PHP, GraphQL
+### Data & Processing
+**Databases**: SQLite, PostgreSQL, MongoDB, DynamoDB, CosmoDB 
+**Processing**: Apache Spark, Databricks
 
+### DevOps & Infrastructure
+**Cloud**: AWS, Azure  
+**Containers & Orchestration**: Docker, Kubernetes  
+**IaC**: Terraform  
+**CI/CD**: GitHub Actions 
+**Monitoring**: New Relic, Crowdstrike, Qualys
+
+### Build & Tooling
+**Build Tools**: Gradle  
+**Version Control**: Git, GitHub, GitLab
 ---
 
 
