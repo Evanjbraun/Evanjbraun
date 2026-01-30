@@ -5,6 +5,7 @@ Experience with building scalable, production-grade systems across **frontend**,
 
 ## 🪚 Recent Projects
 
+[DriftCheck](https://github.com/Evanjbraun/driftcheck-preview) Go CLI tool that allows Terraform Drift Detection in Enterprise Cloud environments
 
 [AstroJS Studio Template](https://github.com/Evanjbraun/cheer_template_astro)
 
