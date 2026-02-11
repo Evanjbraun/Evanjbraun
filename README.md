@@ -7,9 +7,11 @@ Experience with building scalable, production-grade systems across **frontend**,
 
 [DriftCheck](https://github.com/Evanjbraun/driftcheck-preview) Go CLI tool that allows Terraform Drift Detection in Enterprise Cloud environments
 
-[AstroJS Studio Template](https://github.com/Evanjbraun/cheer_template_astro)
+[LoL Minimap Tracker](https://github.com/Evanjbraun/map-detection-league-of-legends) Python Tool using OpenCV, Pytesseract, Pydantic, NumPy, Websockets, FastAPI
 
-[Defend the Castle ThreeJS Game](https://github.com/Evanjbraun/defend_the_castle)
+[AstroJS Studio Template](https://github.com/Evanjbraun/cheer_template_astro) Frontend Project I built mostly by hand with Astro, Html, CSS, JS.
+
+[Defend the Castle ThreeJS Game](https://github.com/Evanjbraun/defend_the_castle) Fun side project to test out game dev with ThreeJS
 
 
 ## 🛠️ Skills & Technologies
